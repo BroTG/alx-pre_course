@@ -1,1 +1,1 @@
-My first readme for this repo
+My first readme for this repository
